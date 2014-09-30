@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/mzhang94/Documents/6.857'
+let g:netrw_dirhist_2='/Users/mzhang94/Documents'
+let g:netrw_dirhist_3='/Users/mzhang94/.vim/plugin'
+let g:netrw_dirhist_4='/Users/mzhang94/.vim/autoload'
+let g:netrw_dirhist_5='/Users/mzhang94/.vim/plugin'
+let g:netrw_dirhist_6='/Users/mzhang94/.vim'
+let g:netrw_dirhist_7='/Users/mzhang94/.vim/plugin'
